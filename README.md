@@ -13,6 +13,10 @@
 
 [Mapa Mental 2](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/MapaMental_2_1810736.pdf)
 
+[Resumen Tecnicas de Mineria de Datos](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/Resumen_Juan%20Alfredo%20Cantu%20Zavala-Outliers_1810736.pdf)
+
+
+
 
 
 
