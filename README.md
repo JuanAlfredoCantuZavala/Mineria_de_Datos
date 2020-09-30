@@ -11,6 +11,10 @@
 
 [Ejercicio 1.2 Asociacion notebook](https://github.com/Dany-Coss/Mineria_Datos_fcfm/blob/master/Ejercicio_1.2_Asociaci%C3%B3n.ipynb)
 
+[Mapa Mental 2](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/MapaMental_2_1810736.pdf)
+
+
+
 
 
 
