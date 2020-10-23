@@ -17,7 +17,9 @@
 
 [Analisis Base de Datos](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/AnalisisBD_1810736_m.pdf)
 
-[Ejercicios de python](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/Ejerccios%20python.ipynb)
+[Ejercicios de python](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/Ejercicios%20python%20n.ipynb)
+
+
 
 
 
