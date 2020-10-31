@@ -19,6 +19,10 @@
 
 [Ejercicios de python](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/Ejercicios%20python%20n.ipynb)
 
+[Avance I - PIA](https://github.com/wendybazua/mineriadedatos/blob/master/Avance1-PIA_E13_G03%20.pdf)
+
+
+
 
 
 
