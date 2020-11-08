@@ -21,7 +21,11 @@
 
 [Avance I - PIA](https://github.com/wendybazua/mineriadedatos/blob/master/Avance1-PIA_E13_G03%20.pdf)
 
-[P1 - Visualización de datos](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/P1%20-%20Manipulaci%C3%B3n%20de%20datos.ipynb)
+[P1 - Manipulación de datos](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/P1%20-%20Manipulaci%C3%B3n%20de%20datos.ipynb)
+
+[P2 - Visualización de datos](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/P2%20-%20Visualizaci%C3%B3n%20de%20datos%20f.ipynb)
+
+
 
 
 
