@@ -25,6 +25,10 @@
 
 [P2 - Visualización de datos](https://github.com/JuanAlfredoCantuZavala/Mineria_de_Datos/blob/master/P2%20-%20Visualizaci%C3%B3n%20de%20datos%20f.ipynb)
 
+[Avance II - PIA](https://github.com/wendybazua/mineriadedatos/blob/master/AvancePIA_II_Grupo003_E13.ipynb)
+
+
+
 
 
 
